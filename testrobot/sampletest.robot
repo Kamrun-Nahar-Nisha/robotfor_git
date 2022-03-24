@@ -9,6 +9,10 @@ ${Browser}  Chrome
 MyFirsttest
     Log     Hello World...
 
+My2ndTest
+    Log     I am Nisha
+
+
 FirstSeleniumTest
     Open Browser    https:google.com    chrome
     Set Browser Implicit Wait       10
